@@ -18,5 +18,17 @@ bin/activate
 python -m pip install -r requirements.txt
 ~~~
 
+4. Run for scrap the data from website
+~~~bash
+python Daad_Scraper/main.py
+~~~
+
+5. Run for data preprocessing
+6. 
+~~~bash
+python Daad_Scraper/data_preprocessing.py
+~~~
+
+
 Tableau Public view: https://public.tableau.com/app/profile/anis.taluqdar/viz/DaadInternationalCourseInformation/Dashboard1
 
