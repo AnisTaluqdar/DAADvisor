@@ -24,7 +24,6 @@ python Daad_Scraper/main.py
 ~~~
 
 5. Run for data preprocessing
-6. 
 ~~~bash
 python Daad_Scraper/data_preprocessing.py
 ~~~
