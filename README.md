@@ -31,3 +31,5 @@ python Daad_Scraper/data_preprocessing.py
 
 Tableau Public view: https://public.tableau.com/app/profile/anis.taluqdar/viz/DaadInternationalCourseInformation/Dashboard1
 
+![alt text](Screenshot_tableau.png)
+
