@@ -3,7 +3,7 @@ from datetime import datetime
 import re
 
 
-df = pd.read_csv("daad_data.csv")
+df = pd.read_csv("/Data/daad_data.csv")
 
 df['Scholarships'] = df['C-badge'].apply(lambda x: 'Yes' if isinstance(x, str) and 'Scholarships' in x else 'No')
 
@@ -118,5 +118,5 @@ df['Registration Deadline'] = pd.to_datetime(df['Registration Deadline'])
 df['Registration Deadline'] = df['Registration Deadline'].dt.strftime('%d/%m/%Y')
 
 
-file_path = 'daad_file.csv'
+file_path = '/Data/daad_final_data.csv'
 df.to_csv(file_path, index=False)
