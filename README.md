@@ -1,5 +1,8 @@
 # Daad-International-Course-Information
 
+
+# Build From Sources and Run the Selenium Scraper
+
 1. Clone the repo
 ~~~bash
 git clone https://github.com/AnisTaluqdar/Daad-International-Course-Information.git
