@@ -1,5 +1,6 @@
 # Daad-International-Course-Information
 
+In this project, I collected data from daad.de through web scraping techniques and utilized it to create visualizations that offer valuable insights. The aim is to facilitate easier access to information on this site for international students seeking relevant details.
 
 # Build From Sources and Run the Selenium Scraper
 
