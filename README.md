@@ -51,8 +51,3 @@ python Daad_Scraper/main.py
 python Daad_Scraper/data_preprocessing.py
 ~~~
 
-
-Tableau Public view: https://public.tableau.com/app/profile/anis.taluqdar/viz/DaadInternationalCourseInformation/Dashboard1
-
-
-
