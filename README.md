@@ -2,6 +2,18 @@
 
 In this project, I collected data from daad.de through web scraping techniques and utilized it to create visualizations that offer valuable insights. The aim is to facilitate easier access to information on this site for international students seeking relevant details.
 
+![alt text](screenshot\sheet1.png)
+![alt text](screenshot\sheet2.png)
+![alt text](screenshot\sheet3.png)
+![alt text](screenshot\sheet4.png)
+![alt text](screenshot\sheet5.png)
+![alt text](screenshot\sheet6.png)
+![alt text](screenshot\sheet7.png)
+![alt text](screenshot\sheet8.png)
+![alt text](screenshot\sheet9.png)
+![alt text](screenshot\dash2.png)
+![alt text](screenshot\dash3.png)
+
 # Build From Sources and Run the Selenium Scraper
 
 1. Clone the repo
@@ -35,5 +47,5 @@ python Daad_Scraper/data_preprocessing.py
 
 Tableau Public view: https://public.tableau.com/app/profile/anis.taluqdar/viz/DaadInternationalCourseInformation/Dashboard1
 
-![alt text](Screenshot_tableau.png)
+
 
