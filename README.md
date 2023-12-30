@@ -6,7 +6,7 @@ In this project, I collected data from daad.de through web scraping techniques a
 
 1. Clone the repo
 ~~~bash
-git clone https://github.com/AnisTaluqdar/Daad-International-Course-Information.git
+git clone https://github.com/AnisTaluqdar/DAADvisor.git
 ~~~
 2. Initialize and activate virtual environment (for linux)
 ~~~bash
