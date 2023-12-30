@@ -2,6 +2,9 @@
 
 In this project, I collected data from daad.de through web scraping techniques and utilized it to create visualizations that offer valuable insights. The aim is to facilitate easier access to information on this site for international students seeking relevant details.
 
+
+## Dashboard 1
+
 ![alt text](screenshot/sheet1.png)
 ![alt text](screenshot/sheet2.png)
 ![alt text](screenshot/sheet3.png)
@@ -11,8 +14,12 @@ In this project, I collected data from daad.de through web scraping techniques a
 ![alt text](screenshot/sheet7.png)
 ![alt text](screenshot/sheet8.png)
 ![alt text](screenshot/sheet9.png)
-![alt text](screenshot/dash2.png)
-![alt text](screenshot/dash3.png)
+
+## Dashboard 2
+
+You can visit the public dashboard [here](https://public.tableau.com/views/DAADvisor/Dashboard3?:language=en-US&:display_count=n&:origin=viz_share_link). 
+
+## Findings and Observations from the [Dashboard](https://public.tableau.com/views/DAADvisor/Dashboard3?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 # Build From Sources and Run the Selenium Scraper
 
